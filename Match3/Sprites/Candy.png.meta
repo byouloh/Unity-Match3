@@ -1,0 +1,2169 @@
+fileFormatVersion: 2
+guid: 54ca3437aad0b43bb8829522d974f172
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 27
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Candy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 390
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 384
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 366
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 357
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_35
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_38
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 323
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 323
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_49
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 323
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 323
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 323
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_52
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 323
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 317
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_54
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 317
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 317
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 317
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 317
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_58
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 317
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 295
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 296
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_65
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 296
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_66
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 274
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 274
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 274
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 274
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_70
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 274
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_71
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 274
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_72
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_74
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_75
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_77
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_78
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_79
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_80
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_83
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 261
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_86
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_87
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_88
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_89
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_90
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_91
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_93
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_96
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_97
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_98
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_99
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_100
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_101
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_103
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_104
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_105
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_106
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_107
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_113
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_114
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 206
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 206
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_116
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 206
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_117
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 206
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_118
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 206
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_119
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 206
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 181
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_121
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 181
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 181
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_123
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 181
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_124
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 181
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_125
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 181
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_126
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_127
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_128
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_130
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_131
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 156
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_133
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 156
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_135
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 156
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_136
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 156
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_137
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 156
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_138
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_139
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_140
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_141
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_142
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_143
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_144
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_145
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_146
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_147
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_148
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_150
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_151
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_152
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_154
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_155
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 90
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_156
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 90
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_157
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 83
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_158
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 83
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_160
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_161
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 83
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_162
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 83
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_163
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_164
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_165
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_166
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_168
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_169
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 90
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_170
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 90
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_171
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_172
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_173
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_174
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_175
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_176
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_177
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 93
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_178
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_179
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 54
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_180
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_181
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_182
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_183
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_184
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_185
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_186
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_187
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_188
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_189
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_190
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_191
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_192
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_193
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_194
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_195
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_196
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_197
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_198
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 54
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_199
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_200
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_201
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_202
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_203
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_204
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_205
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_206
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 23
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_207
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 23
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_208
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_209
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_210
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 23
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_211
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_212
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_213
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_214
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_215
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_216
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_217
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_218
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_219
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_220
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_221
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_222
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_223
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_224
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_225
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_226
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_227
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_228
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_229
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_230
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_231
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_232
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_233
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_234
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Candy_235
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
